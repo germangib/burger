@@ -1,0 +1,2 @@
+# burger
+Sequelized project 
