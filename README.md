@@ -5,7 +5,8 @@
 - Create MySQL, Node, Express, Handelbars. 
 
 ## Status 
-- Application at the time to submit is incomplete. 
+- Application at the time of delivery for HW review is incomplete
+   - I will complete in 2 weeks due to scope
 - MySQL model db is working, same for Node and Express
 - Code has been layed out for most of the components
 - Directory structure is finished:
